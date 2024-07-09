@@ -1,7 +1,7 @@
 {
-    "name": "ENVI MUSIC",
+    "name": "RITS MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/e1ba35ada3900faa9936a.jpg",
+    "logo": "https://telegra.ph/file/752343f03c5be474860db.jpg",
     "keywords": [
     "python3",
     "telegram",
