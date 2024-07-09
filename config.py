@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@ll_Destroyer_of_worldd_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@@ll_WAR_MN8_ll")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME")
 # --------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002226570970))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5882907976 ))
+OWNER_ID = int(getenv("OWNER_ID", 6858958430 ))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Adithakur008/PURVI_MUSIC",
+    "https://github.com/devyanshuh/RITS_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+tS0zXjrYPypjMGJl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+vqDQ2VZjafRkNWE1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/abt_war")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/thala_elclassico_07")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
