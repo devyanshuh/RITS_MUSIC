@@ -29,11 +29,11 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/Envi_music_bot?startgroup=true")
+          InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/@Rits_x_Music_bot?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/+vqDQ2VZjafRkNWE1"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_Destroyer_of_worldd_ll"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/thala_elclassico_07"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_WAR_MN8_ll"),
           ],
                [
                 InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗢𝗧", url=f"https://github.com/TEAMPURVI/ALPHA_BANALL"),
@@ -41,7 +41,7 @@ async def start(_, msg):
 ],
 [
               InlineKeyboardButton("𝗨𝗦𝗘𝗥𝗕𝗢𝗧", url=f"https://github.com/Adithakur008/DESTROYER_USERBOT"),
-              InlineKeyboardButton("︎𝗘𝗡𝗩𝗜𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Adithakur008/PURVI_MUSIC"),
+              InlineKeyboardButton("︎𝗥𝗜𝗧𝗦𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/devyanshuh/RITS_MUSIC"),
               ],
               [
               InlineKeyboardButton("𝗝𝗨𝗡𝗜𝗢𝗥 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TEAMPURVI/ALPHA_MUSIC"),
@@ -78,7 +78,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/Adithakur008/PURVI_MUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+vqDQ2VZjafRkNWE1)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/devyanshuh/RITS_MUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/thala_elclassico_07)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
